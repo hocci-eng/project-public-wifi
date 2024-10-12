@@ -13,6 +13,7 @@ local.properties
 .settings/
 .loadpath
 .recommenders
+.src/test
 
 # External tool builders
 .externalToolBuilders/
